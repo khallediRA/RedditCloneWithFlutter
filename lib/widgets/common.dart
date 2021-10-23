@@ -1,0 +1,17 @@
+export 'package:springredditclone/widgets/navBar_elements/login_button.dart';
+export 'package:springredditclone/widgets/navBar_elements/search_bar.dart';
+export 'package:springredditclone/widgets/navBar_elements/sign_up_button.dart';
+export 'package:springredditclone/widgets/navBar_elements/functions_widget.dart';
+export 'package:springredditclone/widgets/body.dart';
+export 'package:springredditclone/widgets/body_elements/top_news_elements/top_new_element.dart';
+export 'package:springredditclone/widgets/body_elements/top_news_elements/top_news_widget.dart';
+export 'package:springredditclone/widgets/body_elements/center_side_widgets/popular_publication_elements/popular_publication_header.dart';
+export 'package:springredditclone/widgets/body_elements/center_side_widgets/popular_publication_elements/popular_publication_header_filter.dart';
+export 'package:springredditclone/widgets/body_elements/center_side_widgets/popular_publication_elements/listed_button.dart';
+export 'package:springredditclone/widgets/body_elements/right_side_widgets/best_community_widget.dart';
+export 'package:springredditclone/widgets/body_elements/right_side_widgets/best_community_elements/best_community_list.dart';
+export 'package:springredditclone/widgets/body_elements/right_side_widgets/premium_reddit_widget.dart';
+export 'package:springredditclone/widgets/body_elements/right_side_widgets/popular_community_widget.dart';
+export 'package:springredditclone/widgets/body_elements/right_side_widgets/about_list.dart';
+export 'package:springredditclone/widgets/body_elements/center_side_widgets/posts_elements/vote_section.dart';
+export 'package:springredditclone/widgets/body_elements/center_side_widgets/posts_elements/post_header.dart';
